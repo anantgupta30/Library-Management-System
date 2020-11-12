@@ -97,7 +97,7 @@ def show_one_connect():
         global adminno
 
         d_name = database_name.get()
-        mydb = db.connect(host="localhost", user="root", password="root")
+        mydb = db.connect(host="localhost", user="root", password="root")# change all username and password(wherever used) as per your sql login details
         cursor = mydb.cursor()
         cursor.execute("use %s" % d_name)
         messagebox.showinfo("", "Database connected succesfully")
