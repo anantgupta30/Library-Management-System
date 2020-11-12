@@ -1,2 +1,2 @@
-# Library-Management-System.
+# Library-Management-System
 In this repository, given is a library management system made in python using tkinter. It is the full program of 4500 lines of code and very efficient. To run this program you must have sql installed on your system, After that edit your username and password in the program as per your sql login user ID  and ,here, we are ready to run our program. Note:- This program may not run under all version of sql. So, I will recommend you to install sql version 5.0(the version in which i made it). Hope this project will be helpful to you
